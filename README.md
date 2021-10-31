@@ -1,3 +1,3 @@
 # CodingSchule-Tutorial
 
-This is the Tutorial series from Tayron and Luna at [.gg/schule](https://discord.com/invite/schule).
+This is the template bot that is programmed in the courses on [coding school](https://discord.gg/wXYHRGEQug) [GER] of Luna and Tayron.
